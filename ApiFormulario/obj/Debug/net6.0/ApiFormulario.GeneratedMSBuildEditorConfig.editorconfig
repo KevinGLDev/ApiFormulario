@@ -9,33 +9,33 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ApiFormulario
 build_property.RootNamespace = ApiFormulario
-build_property.ProjectDir = C:\Users\KevinDev\Desktop\Proyectos\.net\ApiFormulario\ApiFormulario\
+build_property.ProjectDir = C:\Users\KevinDev\Desktop\Proyectos para Github\ApiFormulario\ApiFormulario\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\KevinDev\Desktop\Proyectos\.net\ApiFormulario\ApiFormulario
+build_property.MSBuildProjectDirectory = C:\Users\KevinDev\Desktop\Proyectos para Github\ApiFormulario\ApiFormulario
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/KevinDev/Desktop/Proyectos/.net/ApiFormulario/ApiFormulario/Views/Contacts/Create.cshtml]
+[C:/Users/KevinDev/Desktop/Proyectos para Github/ApiFormulario/ApiFormulario/Views/Contacts/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KevinDev/Desktop/Proyectos/.net/ApiFormulario/ApiFormulario/Views/Contacts/Delete.cshtml]
+[C:/Users/KevinDev/Desktop/Proyectos para Github/ApiFormulario/ApiFormulario/Views/Contacts/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KevinDev/Desktop/Proyectos/.net/ApiFormulario/ApiFormulario/Views/Contacts/Details.cshtml]
+[C:/Users/KevinDev/Desktop/Proyectos para Github/ApiFormulario/ApiFormulario/Views/Contacts/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KevinDev/Desktop/Proyectos/.net/ApiFormulario/ApiFormulario/Views/Contacts/Edit.cshtml]
+[C:/Users/KevinDev/Desktop/Proyectos para Github/ApiFormulario/ApiFormulario/Views/Contacts/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KevinDev/Desktop/Proyectos/.net/ApiFormulario/ApiFormulario/Views/Contacts/Index.cshtml]
+[C:/Users/KevinDev/Desktop/Proyectos para Github/ApiFormulario/ApiFormulario/Views/Contacts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/KevinDev/Desktop/Proyectos/.net/ApiFormulario/ApiFormulario/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/KevinDev/Desktop/Proyectos para Github/ApiFormulario/ApiFormulario/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

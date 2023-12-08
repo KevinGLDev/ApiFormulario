@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a1p59LIGqCbSc70sVS+YesaEQQK4u0ANBmG4CwNvI70L3DTt+m3GrW1iQMZ/1WqZJH5JTmo77cA1oTQH/zzlYA==",
+  "dgSpecHash": "mWsynpbBrS4uy1PRVyZ4VK5SbVmTuCycnnhNd5bbC2Mn5fSzd4aDC04V5btRjWDlVBWu2jiZG0guQzJO7GclSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\KevinDev\\Desktop\\Proyectos\\.net\\ApiFormulario\\ApiFormulario\\ApiFormulario.csproj",
+  "projectFilePath": "C:\\Users\\KevinDev\\Desktop\\Proyectos para Github\\ApiFormulario\\ApiFormulario\\ApiFormulario.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KevinDev\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\KevinDev\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

@@ -11369,11 +11369,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KevinDev\\Desktop\\Proyectos\\.net\\ApiFormulario\\ApiFormulario\\ApiFormulario.csproj",
+      "projectUniqueName": "C:\\Users\\KevinDev\\Desktop\\Proyectos para Github\\ApiFormulario\\ApiFormulario\\ApiFormulario.csproj",
       "projectName": "ApiFormulario",
-      "projectPath": "C:\\Users\\KevinDev\\Desktop\\Proyectos\\.net\\ApiFormulario\\ApiFormulario\\ApiFormulario.csproj",
+      "projectPath": "C:\\Users\\KevinDev\\Desktop\\Proyectos para Github\\ApiFormulario\\ApiFormulario\\ApiFormulario.csproj",
       "packagesPath": "C:\\Users\\KevinDev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KevinDev\\Desktop\\Proyectos\\.net\\ApiFormulario\\ApiFormulario\\obj\\",
+      "outputPath": "C:\\Users\\KevinDev\\Desktop\\Proyectos para Github\\ApiFormulario\\ApiFormulario\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
